@@ -1,6 +1,6 @@
 {
   "name": "Catan Card Counter",
-  "description": "Counts Resrouce Cards for colonist.io",
+  "description": "Counts Resource Cards for colonist.io",
   "version": "0.1",
   "manifest_version": 3,
   "background": {
